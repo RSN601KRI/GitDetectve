@@ -21,6 +21,9 @@ GitDetective is a web application designed to identify and display user profiles
 ### Responsive Layout
 - The website is responsive, ensuring a consistent and optimized display across various devices, from desktops to mobile phones.
 
+  ![demogit](https://github.com/RSN601KRI/GitDetectve/assets/106860359/8b0ecc38-0727-4aee-a691-b297047186c2)
+
+
 ## Getting Started
 
 1. Clone the repository:
